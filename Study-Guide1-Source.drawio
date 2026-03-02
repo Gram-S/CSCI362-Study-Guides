@@ -1,0 +1,256 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="B2wMngmN8hdhSLEVzCwc">
+    <mxGraphModel dx="1356" dy="832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZAbYuem_UO14GIrugi4-135" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="405" width="244.5" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-71" value="&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Truth Tables&lt;/font&gt;&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-135">
+          <mxGeometry width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-72" value="&lt;div style=&quot;text-align: justify; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="vZAbYuem_UO14GIrugi4-135">
+          <mxGeometry x="3" y="30" width="238" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-73" value="For a function that accepts &lt;b&gt;n booleans&lt;/b&gt;&amp;nbsp;as input, there are &lt;b&gt;2&lt;sup&gt;n&lt;/sup&gt;&amp;nbsp;&lt;/b&gt;possible inputs. A &lt;b&gt;truth table &lt;/b&gt;lists all of these inputs and the corresponding output(s)." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-135">
+          <mxGeometry x="6.5" y="30" width="231" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-130" value="" style="group" vertex="1" connectable="0" parent="vZAbYuem_UO14GIrugi4-135">
+          <mxGeometry x="11" y="109" width="108" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-113" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ex. XOR Truth Table&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-130">
+          <mxGeometry width="108" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-128" value="" style="group" vertex="1" connectable="0" parent="vZAbYuem_UO14GIrugi4-130">
+          <mxGeometry x="24" y="17.5" width="60" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-119" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;X&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-128">
+          <mxGeometry width="13" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-123" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Y&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-128">
+          <mxGeometry x="17" width="13" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-124" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Out&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;0&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;1&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-128">
+          <mxGeometry x="35" width="25" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-125" value="" style="endArrow=none;html=1;rounded=0;exitX=0.02;exitY=0.201;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vZAbYuem_UO14GIrugi4-128" source="vZAbYuem_UO14GIrugi4-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="64" as="sourcePoint" />
+            <mxPoint x="59" y="14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-127" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.079;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.089;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vZAbYuem_UO14GIrugi4-128" source="vZAbYuem_UO14GIrugi4-124" target="vZAbYuem_UO14GIrugi4-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="43" y="18" as="sourcePoint" />
+            <mxPoint x="102" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-134" value="" style="group" vertex="1" connectable="0" parent="vZAbYuem_UO14GIrugi4-135">
+          <mxGeometry x="6.5" y="231" width="238" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-131" value="For &lt;b&gt;n booleans&lt;/b&gt;&amp;nbsp;there are 2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp; possible fuctions&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-134">
+          <mxGeometry y="4" width="238" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-133" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;n&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-134">
+          <mxGeometry x="152.5" width="9" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-136" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="15" width="358" height="242.5245535714285" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-14" value="&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Boolean Functions &amp;amp; Logic Gates&lt;/font&gt;&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="vZAbYuem_UO14GIrugi4-136">
+          <mxGeometry width="258" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-62" value="" style="group" vertex="1" connectable="0" parent="vZAbYuem_UO14GIrugi4-136">
+          <mxGeometry x="8" y="30" width="350" height="212.5245535714285" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.469;exitY=0.231;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.531;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vZAbYuem_UO14GIrugi4-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="192" as="sourcePoint" />
+            <mxPoint x="205.70000000000016" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-69" value="" style="group" vertex="1" connectable="0" parent="vZAbYuem_UO14GIrugi4-62">
+          <mxGeometry width="350" height="212.5245535714285" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-1" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry width="350" height="212.5245535714285" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-3" value="NOT" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-2">
+          <mxGeometry width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-4" value="&lt;span style=&quot;color: rgb(234, 243, 255); text-align: start;&quot;&gt;X̄&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-2">
+          <mxGeometry x="117" width="116" height="27" as="geometry">
+            <mxRectangle width="116" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;True if X is false&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="vZAbYuem_UO14GIrugi4-2">
+          <mxGeometry x="233" width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="27" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-7" value="AND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-6">
+          <mxGeometry width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-8" value="XY" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-6">
+          <mxGeometry x="117" width="116" height="27" as="geometry">
+            <mxRectangle width="116" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-9" value="True if X and Y are True" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-6">
+          <mxGeometry x="233" width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="54" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-22" value="OR" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-21">
+          <mxGeometry width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-23" value="X + Y" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-21">
+          <mxGeometry x="117" width="116" height="27" as="geometry">
+            <mxRectangle width="116" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-24" value="True if either X or Y is True" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-21">
+          <mxGeometry x="233" width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="81" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-26" value="NAND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-25">
+          <mxGeometry width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-27" value="&lt;font color=&quot;#eaf3ff&quot;&gt;X&lt;font face=&quot;DuckSansDisplay, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Arial, Noto Sans, sans-serif&quot;&gt;&lt;span style=&quot;letter-spacing: -0.2px;&quot;&gt;Y&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-25">
+          <mxGeometry x="117" width="116" height="26" as="geometry">
+            <mxRectangle width="116" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-28" value="True if X and Y are False" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-25">
+          <mxGeometry x="233" width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="107" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-11" value="XOR" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-10">
+          <mxGeometry width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-12" value="&lt;font color=&quot;#eaf3ff&quot;&gt;X&lt;/font&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/%C8%B2&quot; rel=&quot;noopener&quot; target=&quot;_self&quot; class=&quot;aE0gc0ID62YmIzSXoXG2&quot; data-handled-by-react=&quot;true&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: DuckSansProduct, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-decoration-line: none; color: rgb(238, 238, 238); letter-spacing: 0.072px; text-align: start;&quot;&gt;&lt;h2 class=&quot;Ee2e63EzQ9F3xq9wsGDY&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: 1.5em; font-family: DuckSansDisplay, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(255, 255, 255); overflow-wrap: break-word; letter-spacing: -0.2px; display: inline !important;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Ȳ&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;&lt;/a&gt;+&lt;span style=&quot;color: rgb(234, 243, 255); text-align: start;&quot;&gt;X̄Y&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-10">
+          <mxGeometry x="117" width="116" height="27" as="geometry">
+            <mxRectangle width="116" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-13" value="True only if either X or Y are True, not both" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-10">
+          <mxGeometry x="233" width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="134" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-36" value="NOR" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-35">
+          <mxGeometry width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-37" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#eaf3ff&quot;&gt;X + Y&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-35">
+          <mxGeometry x="117" width="116" height="27" as="geometry">
+            <mxRectangle width="116" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-38" value="True if X or Y are False" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-35">
+          <mxGeometry x="233" width="117" height="27" as="geometry">
+            <mxRectangle width="117" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="161" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-42" value="IF" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-41">
+          <mxGeometry width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-43" value="&lt;span style=&quot;color: rgb(234, 243, 255); text-align: start;&quot;&gt;X̄ + Y&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-41">
+          <mxGeometry x="117" width="116" height="26" as="geometry">
+            <mxRectangle width="116" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-44" value="True if X or false or Y is True" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-41">
+          <mxGeometry x="233" width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry y="187" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-51" value="EQUALS" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-50">
+          <mxGeometry width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-52" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;XY + &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#eaf3ff&quot;&gt;XY&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vZAbYuem_UO14GIrugi4-50">
+          <mxGeometry x="117" width="116" height="26" as="geometry">
+            <mxRectangle width="116" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-53" value="True if X = Y" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="vZAbYuem_UO14GIrugi4-50">
+          <mxGeometry x="233" width="117" height="26" as="geometry">
+            <mxRectangle width="117" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0.469;exitY=0.231;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.531;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.14999999999998" y="86.00600000000003" as="sourcePoint" />
+            <mxPoint x="185.85000000000014" y="86.00600000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.437;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.554;entryY=0.222;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vZAbYuem_UO14GIrugi4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153.95000000000005" y="138.99399999999997" as="sourcePoint" />
+            <mxPoint x="194.89999999999998" y="138.99399999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="4.5" y="31" width="29" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="6" y="5" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="4.66" y="58" width="28.67" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-66" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="4.33" y="111" width="33.34" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-67" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;negating=1;negSize=0.15;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="4" y="84" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="vZAbYuem_UO14GIrugi4-68" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;negating=1;negSize=0.15;" vertex="1" parent="vZAbYuem_UO14GIrugi4-69">
+          <mxGeometry x="2.67" y="136" width="35.33" height="22" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
